@@ -1,0 +1,3 @@
+https://wiki.python.org.br/ListaDeExercicios
+
+Desafio: Peça ao usuário um inteiro e escreva em um arquivo todos os números primos até o valor que foi passado.

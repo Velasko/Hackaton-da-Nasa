@@ -1,7 +1,7 @@
 
 #Exemplo de soma:
 
-print("Soma:", 3 - 2)
+print("Soma:", 3 + 2)
 
 #Subtracao
 

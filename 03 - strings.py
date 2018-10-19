@@ -14,3 +14,9 @@ print('y eh: ' + y)
 
 print("o 'u' esta na posicao", x.find('u'))
 print(x[6])
+
+# Caracteres especiais
+
+# \n -> nova linha
+# \t -> tab
+# \\ -> adiciona um \ na string
